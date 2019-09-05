@@ -5,6 +5,6 @@
 
 ```docker login```
 
-```docker build -t changefinance/flutter-builder-docker:1.5.0 .```
+```docker build -t changefinance/flutter-builder-docker:1.9.1+hotfix.1 .```
 
-```docker push changefinance/flutter-builder-docker:1.5.0```
+```docker push changefinance/flutter-builder-docker:1.9.1+hotfix.1```
